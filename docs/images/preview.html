@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Image candidates — Kelley Library Science Fiction and Fantasy Bookclub</title>
+<style>
+  :root { --bg:#10131c; --card:#1b2030; --text:#eef1f7; --muted:#a9b1c6; --ok:#3fb27f; --date:#d9a43a; --check:#8a93a8; }
+  * { box-sizing:border-box; }
+  body { margin:0; font:18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; background:var(--bg); color:var(--text); }
+  header { padding:28px 32px 8px; }
+  h1 { margin:0 0 6px; font-size:28px; }
+  header p { margin:4px 0; color:var(--muted); max-width:900px; }
+  .legend span { display:inline-block; margin-right:14px; }
+  section { padding:12px 32px 28px; }
+  section h2 { font-size:24px; margin:18px 0 4px; padding-left:12px; border-left:8px solid var(--accent); }
+  section > p { color:var(--muted); margin:0 0 14px 20px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(420px, 1fr)); gap:20px; }
+  .card { background:var(--card); border-radius:12px; overflow:hidden; border:2px solid transparent; }
+  .card.picked { border-color:var(--accent); }
+  .banner { position:relative; aspect-ratio:4 / 1; background:#000; overflow:hidden; }
+  .banner img { width:100%; height:100%; object-fit:cover; display:block; }
+  .banner .title { position:absolute; inset:auto 0 0 0; padding:8px 14px; font-weight:700; font-size:17px;
+                   background:linear-gradient(transparent, rgba(0,0,0,.75)); color:#fff; }
+  .full { display:flex; gap:14px; padding:14px; }
+  .full a.thumb { flex:0 0 150px; }
+  .full img { width:150px; height:150px; object-fit:contain; background:#000; border-radius:6px; display:block; }
+  .meta h3 { margin:0 0 4px; font-size:19px; }
+  .meta p { margin:2px 0; font-size:16px; color:var(--muted); }
+  .lic { display:inline-block; margin-top:6px; padding:2px 10px; border-radius:999px; font-size:14px; font-weight:600; color:#10131c; }
+  .lic.ok { background:var(--ok); } .lic.date { background:var(--date); } .lic.check { background:var(--check); }
+  label.pick { display:flex; align-items:center; gap:10px; padding:0 14px 14px; font-size:17px; cursor:pointer; }
+  label.pick input { width:24px; height:24px; }
+  footer { padding:20px 32px 40px; border-top:1px solid #2b3146; }
+  footer button { font-size:17px; padding:10px 18px; border-radius:8px; border:0; background:#3a6df0; color:#fff; cursor:pointer; }
+  footer textarea { width:100%; max-width:900px; height:140px; margin-top:12px; font:15px/1.4 ui-monospace, Menlo, monospace; background:#0b0d14; color:var(--text); border:1px solid #2b3146; border-radius:8px; padding:10px; }
+  a { color:#8fb4ff; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Image candidates for the Bookclub site</h1>
+  <p>Each card shows the image <b>cropped to a banner shape</b> (as it would sit behind the page heading) and the <b>whole image</b> (click the small picture to open it full size on Wikimedia Commons). Tick the ones you like, then use the button at the bottom.</p>
+  <p>This page loads the pictures straight from Wikimedia Commons, so you need to be online. The finished site will keep its own copies.</p>
+  <p class="legend">
+    <span class="lic ok">Public domain — checked</span> licence read on the file's Commons page ·
+    <span class="lic date">Public domain — by date</span> artist died, or work published, long enough ago ·
+    <span class="lic check">Licence to confirm</span> looks free to use; I'll check before using it
+  </p>
+</header>
+
+<div id="sections"></div>
+
+<footer>
+  <button id="copy">Show my picks</button>
+  <p style="color:var(--muted)">Copy the list below and paste it into the chat with Claude.</p>
+  <textarea id="out" readonly placeholder="Your picks will appear here."></textarea>
+</footer>
+
+<script>
+const THEMES = [
+  { name:"Deep Space", accent:"#3fc6e8", note:"Dark, starry default theme.", items:[
+    { file:"NASA’s Webb Reveals Cosmic Cliffs, Glittering Landscape of Star Birth.jpg", title:"“Cosmic Cliffs”, Carina Nebula", by:"NASA, ESA, CSA, STScI (James Webb Space Telescope)", date:"2022", lic:"check", licText:"Public domain (NASA) — to confirm",
+      why:"Already wide, so it fits a banner well. Glowing orange cliffs under a starry blue sky." },
+    { file:"Pillars of creation 2014 HST WFC3-UVIS full-res denoised.jpg", title:"Pillars of Creation, Eagle Nebula", by:"NASA, ESA, and the Hubble Heritage Team (STScI/AURA)", date:"2014", lic:"ok", licText:"Public domain (PD-USGov)",
+      why:"The best-known Hubble picture. It's tall, so the banner shows a band across the middle." },
+    { file:"Carina Nebula field JWST NIRCam.jpg", title:"Carina Nebula field", by:"NASA, ESA, CSA, STScI (James Webb Space Telescope)", date:"2022", lic:"check", licText:"Webb image — to confirm",
+      why:"A wide star field. Calmer behind text than the Cosmic Cliffs." }
+  ]},
+  { name:"Enchanted Forest", accent:"#d4af37", note:"Green and gold fantasy theme.", items:[
+    { file:"Ännu sitter Tuvstarr kvar och ser ner i vattnet.jpg", title:"Tuvstarr Gazing into the Water", by:"John Bauer (1882–1918)", date:"1913", lic:"date", licText:"Public domain (artist died 1918)",
+      why:"Bauer's most famous painting: a princess and an elk by a dark forest pool." },
+    { file:"The Princess and the Trolls (John Bauer) - Nationalmuseum - 24305.tif", title:"The Princess and the Trolls", by:"John Bauer (1882–1918)", date:"1913", lic:"date", licText:"Public domain (artist died 1918)",
+      why:"Two trolls with a human child. Warm earthy colors. Scanned by Sweden's Nationalmuseum." },
+    { file:"Rottrollen - John Bauer 1917.jpg", title:"Root Trolls", by:"John Bauer (1882–1918)", date:"1917", lic:"date", licText:"Public domain (artist died 1918)",
+      why:"Trolls among tree roots, in moody greens and browns." },
+    { file:"Ring41.jpg", title:"The Dragon Fafnir Guards the Gold Hoard", by:"Arthur Rackham (1867–1939)", date:"1911", lic:"date", licText:"Public domain (artist died 1939)",
+      why:"A classic dragon for a fantasy theme. Also works as small corner art." },
+    { file:"Orlando Furioso 9.jpg", title:"Hippogriff, from Orlando Furioso", by:"Gustave Doré (1832–1883)", date:"1877", lic:"ok", licText:"Public domain (PD-Art)",
+      why:"Black-and-white engraving of a flying hippogriff. It could suit Library Classic too." }
+  ]},
+  { name:"Retro Pulp", accent:"#e0533d", note:"1920s pulp-magazine theme: cream, red, mustard and teal.", items:[
+    { file:"Amazing Stories 1927 08.jpg", title:"Amazing Stories, Aug 1927 (The War of the Worlds)", by:"Frank R. Paul", date:"1927", lic:"date", licText:"Public domain (US, published before 1931)",
+      why:"Martian tripods attacking. A fitting link, since the club read War of the Worlds in 2018." },
+    { file:"Amazing stories 192709.jpg", title:"Amazing Stories, Sep 1927", by:"Frank R. Paul", date:"1927", lic:"date", licText:"Public domain (US, published before 1931)",
+      why:"A sharp, high-resolution scan, so it crops cleanly." },
+    { file:"Amazing stories 192711.jpg", title:"Amazing Stories, Nov 1927", by:"Frank R. Paul", date:"1927", lic:"date", licText:"Public domain (US, published before 1931)",
+      why:"Another sharp scan in Paul's bright pulp colors." },
+    { file:"Weird Tales March 1923.jpg", title:"Weird Tales, Mar 1923 (first issue)", by:"R. R. Epperly", date:"1923", lic:"ok", licText:"Public domain",
+      why:"The very first Weird Tales. Leans more toward horror than SF." }
+  ]},
+  { name:"Library Classic", accent:"#9b2d3f", note:"Calm, light, highest-contrast theme.", items:[
+    { file:"Reading room, Library of Congress, Washington, D.C..jpg", title:"Reading Room, Library of Congress", by:"National Photo Company", date:"c. 1920s", lic:"ok", licText:"Public domain (no known restrictions)",
+      why:"Grand domed reading room. A historic black-and-white photo." },
+    { file:"Reading room - Boston Public Library, McKim Building - DSC09268.JPG", title:"Reading Room, Boston Public Library", by:"Wikimedia Commons photographer", date:"modern photo", lic:"ok", licText:"CC0 (public domain dedication)",
+      why:"Bates Hall in color, with green lamps and long tables. Close to home for a New England club." },
+    { file:"Americana 1920 Libraries - Widener Library reading room.jpg", title:"Widener Library Reading Room", by:"Unknown photographer (Encyclopedia Americana)", date:"1920", lic:"ok", licText:"Public domain (US, published before 1931)",
+      why:"A quiet 1920 library photo. Simple behind text." },
+    { file:"The British Museum; the incunabula room of the library, with Wellcome V0013872.jpg", title:"The Incunabula Room, British Museum Library", by:"Wood engraving, possibly after J. Jewitt (Wellcome Collection)", date:"19th century", lic:"check", licText:"Wellcome Collection — to confirm (likely CC BY 4.0)",
+      why:"An old engraving of shelves full of books, in keeping with the theme." }
+  ]}
+];
+
+const thumb = (file, w) => "https://commons.wikimedia.org/wiki/Special:FilePath/" + encodeURIComponent(file) + "?width=" + w;
+const page  = (file) => "https://commons.wikimedia.org/wiki/File:" + encodeURIComponent(file.replace(/ /g, "_"));
+let picks = {};
+try { picks = JSON.parse(localStorage.getItem("sff-picks") || "{}"); } catch (e) {}
+
+const root = document.getElementById("sections");
+THEMES.forEach(t => {
+  const s = document.createElement("section");
+  s.style.setProperty("--accent", t.accent);
+  s.innerHTML = `<h2>${t.name}</h2><p>${t.note}</p><div class="grid"></div>`;
+  const grid = s.querySelector(".grid");
+  t.items.forEach(it => {
+    const key = t.name + " — " + it.title;
+    const c = document.createElement("div");
+    c.className = "card" + (picks[key] ? " picked" : "");
+    c.innerHTML = `
+      <div class="banner"><img loading="lazy" src="${thumb(it.file, 1600)}" alt=""><div class="title">Kelley Library Science Fiction and Fantasy Bookclub</div></div>
+      <div class="full">
+        <a class="thumb" href="${page(it.file)}" target="_blank" rel="noopener" title="Open on Wikimedia Commons"><img loading="lazy" src="${thumb(it.file, 400)}" alt="${it.title}"></a>
+        <div class="meta">
+          <h3>${it.title}</h3>
+          <p>${it.by} · ${it.date}</p>
+          <p>${it.why}</p>
+          <span class="lic ${it.lic}">${it.licText}</span>
+        </div>
+      </div>
+      <label class="pick"><input type="checkbox" ${picks[key] ? "checked" : ""}> I like this one</label>`;
+    c.querySelector("input").addEventListener("change", e => {
+      if (e.target.checked) picks[key] = it.file; else delete picks[key];
+      c.classList.toggle("picked", e.target.checked);
+      try { localStorage.setItem("sff-picks", JSON.stringify(picks)); } catch (err) {}
+    });
+    grid.appendChild(c);
+  });
+  root.appendChild(s);
+});
+
+document.getElementById("copy").addEventListener("click", () => {
+  const keys = Object.keys(picks);
+  document.getElementById("out").value = keys.length
+    ? "My image picks:\n" + keys.map(k => "- " + k).join("\n")
+    : "Nothing ticked yet.";
+});
+</script>
+</body>
+</html>

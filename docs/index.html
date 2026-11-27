@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="deep-space">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<meta name="referrer" content="no-referrer">
+<title>Kelley Library Science Fiction and Fantasy Bookclub</title>
+<link rel="stylesheet" href="css/style.css">
+<script>
+  // Apply the saved theme before the page draws, so it doesn't flash.
+  (function () {
+    var t = null;
+    try { t = localStorage.getItem("sff-theme"); } catch (e) {}
+    if (!t && window.matchMedia &&
+        (matchMedia("(prefers-contrast: more)").matches || matchMedia("(prefers-reduced-motion: reduce)").matches)) {
+      t = "library-classic";
+    }
+    if (t) document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
+</head>
+<body>
+<header class="banner" id="banner">
+  <div class="banner-img" id="bannerA" aria-hidden="true"></div>
+  <div class="banner-img" id="bannerB" aria-hidden="true"></div>
+  <div class="banner-shade" aria-hidden="true"></div>
+  <div class="banner-top">
+    <label class="style-picker">
+      <span>Style</span>
+      <select id="themeSelect">
+        <option value="deep-space">Deep Space</option>
+        <option value="enchanted-forest">Enchanted Forest</option>
+        <option value="retro-pulp">Retro Pulp</option>
+        <option value="library-classic">Library Classic</option>
+      </select>
+    </label>
+    <button type="button" class="shuffle" id="shuffle" title="Show another picture">↻ New picture</button>
+  </div>
+  <div class="banner-text">
+    <h1>Kelley Library Science Fiction and Fantasy Bookclub</h1>
+    <p class="subtitle">Everything we've read since 2002</p>
+    <p class="updated" id="updated"></p>
+  </div>
+  <a class="banner-credit" id="bannerCredit" href="#credits" hidden></a>
+</header>
+
+<main>
+  <div class="controls">
+    <div class="search-wrap">
+      <label for="search" class="search-label">Search title or author</label>
+      <div class="search-box">
+        <input type="search" id="search" autocomplete="off" spellcheck="false"
+               placeholder="e.g. Niven, Dune, Le Guin" aria-describedby="count">
+        <button type="button" id="clear" class="clear" aria-label="Clear search" hidden>×</button>
+      </div>
+    </div>
+    <p class="count" id="count" aria-live="polite">Loading…</p>
+    <label class="show-all"><input type="checkbox" id="showAll"> Show all months (including months with no book)</label>
+  </div>
+
+  <div class="table-wrap">
+    <table id="books">
+      <thead>
+        <tr>
+          <th scope="col" class="col-date" aria-sort="descending"><button type="button" data-key="date">Date <span class="arrow" aria-hidden="true">▼</span></button></th>
+          <th scope="col" class="col-title" aria-sort="none"><button type="button" data-key="title">Title <span class="arrow" aria-hidden="true"></span></button></th>
+          <th scope="col" class="col-author" aria-sort="none"><button type="button" data-key="author">Author <span class="arrow" aria-hidden="true"></span></button></th>
+          <th scope="col" class="col-series" aria-sort="none"><button type="button" data-key="series">Series / Book # <span class="arrow" aria-hidden="true"></span></button></th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <p class="empty" id="empty" hidden></p>
+  </div>
+</main>
+
+<footer>
+  <p>Kelley Library Science Fiction and Fantasy Bookclub · Salem, NH</p>
+  <details id="credits">
+    <summary>Image credits</summary>
+    <ul id="creditList"></ul>
+  </details>
+  <p class="built" id="built"></p>
+</footer>
+
+<script src="data/books.js"></script>
+<script src="images/images.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

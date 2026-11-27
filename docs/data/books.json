@@ -1,0 +1,3177 @@
+{
+ "generated": "2026-11-27T01:24:37+00:00",
+ "source": "Bookclub_Master_List.md",
+ "rows": [
+  {
+   "year": 2002,
+   "month": 1,
+   "status": "read",
+   "title": "I, Robot",
+   "part": null,
+   "author": "Asimov, Isaac",
+   "series": "Robot series (collection)",
+   "previouslyRead": []
+  },
+  {
+   "year": 2002,
+   "month": 2,
+   "status": "read",
+   "title": "The Legend of Nightfall",
+   "part": null,
+   "author": "Reichert, Mickey Zucker",
+   "series": "Nightfall #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2002,
+   "month": 3,
+   "status": "read",
+   "title": "Ethan of Athos",
+   "part": null,
+   "author": "Bujold, Lois McMaster",
+   "series": "Vorkosigan Saga",
+   "previouslyRead": []
+  },
+  {
+   "year": 2002,
+   "month": 4,
+   "status": "read",
+   "title": "Shockball",
+   "part": null,
+   "author": "Viehl, S. L.",
+   "series": "Stardoc #4",
+   "previouslyRead": []
+  },
+  {
+   "year": 2002,
+   "month": 5,
+   "status": "read",
+   "title": "Restoree",
+   "part": null,
+   "author": "McCaffrey, Anne",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2002,
+   "month": 6,
+   "status": "read",
+   "title": "Dragonflight",
+   "part": null,
+   "author": "McCaffrey, Anne",
+   "series": "Dragonriders of Pern #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2002,
+   "month": 7,
+   "status": "read",
+   "title": "Magic's Pawn",
+   "part": null,
+   "author": "Lackey, Mercedes",
+   "series": "Last Herald-Mage #1 (Valdemar)",
+   "previouslyRead": []
+  },
+  {
+   "year": 2002,
+   "month": 8,
+   "status": "read",
+   "title": "More Annotated H. P. Lovecraft",
+   "part": null,
+   "author": "Lovecraft, H. P.",
+   "series": "Anthology",
+   "previouslyRead": []
+  },
+  {
+   "year": 2002,
+   "month": 9,
+   "status": "read",
+   "title": "Commitment Hour",
+   "part": null,
+   "author": "Gardner, James Alan",
+   "series": "League of Peoples #2",
+   "previouslyRead": []
+  },
+  {
+   "year": 2002,
+   "month": 10,
+   "status": "read",
+   "title": "Children of the Night",
+   "part": null,
+   "author": "Lackey, Mercedes",
+   "series": "Diana Tregarde #2",
+   "previouslyRead": []
+  },
+  {
+   "year": 2002,
+   "month": 11,
+   "status": "read",
+   "title": "Herland",
+   "part": null,
+   "author": "Gilman, Charlotte Perkins",
+   "series": "Herland Trilogy #2",
+   "previouslyRead": []
+  },
+  {
+   "year": 2002,
+   "month": 12,
+   "status": "read",
+   "title": "The Caves of Steel",
+   "part": null,
+   "author": "Asimov, Isaac",
+   "series": "Robot #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2003,
+   "month": 1,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2003,
+   "month": 2,
+   "status": "read",
+   "title": "The Shadow Within",
+   "part": null,
+   "author": "Cavelos, Jeanne",
+   "series": "Babylon 5",
+   "previouslyRead": []
+  },
+  {
+   "year": 2003,
+   "month": 3,
+   "status": "read",
+   "title": "Hunting Party",
+   "part": null,
+   "author": "Moon, Elizabeth",
+   "series": "Serrano Legacy #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2003,
+   "month": 4,
+   "status": "read",
+   "title": "The Dark Wing",
+   "part": null,
+   "author": "Hunt, Walter H.",
+   "series": "Dark Wing #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2003,
+   "month": 5,
+   "status": "read",
+   "title": "Turning Point",
+   "part": null,
+   "author": "Norman, Lisanne",
+   "series": "Sholan Alliance #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2003,
+   "month": 6,
+   "status": "read",
+   "title": "Lord of Light",
+   "part": null,
+   "author": "Zelazny, Roger",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2003,
+   "month": 7,
+   "status": "read",
+   "title": "City of Golden Shadow",
+   "part": null,
+   "author": "Williams, Tad",
+   "series": "Otherland #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2003,
+   "month": 8,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2003,
+   "month": 9,
+   "status": "read",
+   "title": "The Silk Code",
+   "part": null,
+   "author": "Levinson, Paul",
+   "series": "Phil D'Amato #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2003,
+   "month": 10,
+   "status": "read",
+   "title": "A Game of Thrones",
+   "part": null,
+   "author": "Martin, George R. R.",
+   "series": "A Song of Ice and Fire #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2003,
+   "month": 11,
+   "status": "read",
+   "title": "Eternity Road",
+   "part": null,
+   "author": "McDevitt, Jack",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2003,
+   "month": 12,
+   "status": "read",
+   "title": "Borders of Infinity",
+   "part": null,
+   "author": "Bujold, Lois McMaster",
+   "series": "Vorkosigan Saga (collection)",
+   "previouslyRead": []
+  },
+  {
+   "year": 2004,
+   "month": 1,
+   "status": "read",
+   "title": "American Gods",
+   "part": null,
+   "author": "Gaiman, Neil",
+   "series": "American Gods #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2004,
+   "month": 2,
+   "status": "read",
+   "title": "Hellspark",
+   "part": null,
+   "author": "Kagan, Janet",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2004,
+   "month": 3,
+   "status": "read",
+   "title": "The Left Hand of Darkness",
+   "part": null,
+   "author": "Le Guin, Ursula K.",
+   "series": "Hainish Cycle",
+   "previouslyRead": []
+  },
+  {
+   "year": 2004,
+   "month": 4,
+   "status": "read",
+   "title": "1632",
+   "part": null,
+   "author": "Flint, Eric",
+   "series": "Ring of Fire #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2004,
+   "month": 5,
+   "status": "read",
+   "title": "The Magic of Recluce",
+   "part": null,
+   "author": "Modesitt Jr., L. E.",
+   "series": "Saga of Recluce #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2004,
+   "month": 6,
+   "status": "read",
+   "title": "Gateway",
+   "part": null,
+   "author": "Pohl, Frederik",
+   "series": "Heechee Saga #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2004,
+   "month": 7,
+   "status": "read",
+   "title": "The Door into Summer",
+   "part": null,
+   "author": "Heinlein, Robert A.",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2004,
+   "month": 8,
+   "status": "read",
+   "title": "Jack the Bodiless",
+   "part": null,
+   "author": "May, Julian",
+   "series": "Galactic Milieu #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2004,
+   "month": 9,
+   "status": "read",
+   "title": "Pawn of Prophecy",
+   "part": null,
+   "author": "Eddings, David",
+   "series": "The Belgariad #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2004,
+   "month": 10,
+   "status": "read",
+   "title": "Bimbos of the Death Sun",
+   "part": null,
+   "author": "McCrumb, Sharyn",
+   "series": "Jay Omega #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2004,
+   "month": 10,
+   "status": "read",
+   "title": "Zombies of the Gene Pool",
+   "part": null,
+   "author": "McCrumb, Sharyn",
+   "series": "Jay Omega #2",
+   "previouslyRead": []
+  },
+  {
+   "year": 2004,
+   "month": 11,
+   "status": "read",
+   "title": "The Excalibur Alternative",
+   "part": null,
+   "author": "Weber, David",
+   "series": "Earth Legions #3 (stands alone)",
+   "previouslyRead": []
+  },
+  {
+   "year": 2004,
+   "month": 12,
+   "status": "read",
+   "title": "Dervish Is Digital",
+   "part": null,
+   "author": "Cadigan, Pat",
+   "series": "Doré Konstantin #2",
+   "previouslyRead": []
+  },
+  {
+   "year": 2005,
+   "month": 1,
+   "status": "read",
+   "title": "Lord Darcy",
+   "part": null,
+   "author": "Garrett, Randall",
+   "series": "Lord Darcy (omnibus)",
+   "previouslyRead": []
+  },
+  {
+   "year": 2005,
+   "month": 2,
+   "status": "read",
+   "title": "The Golden Compass",
+   "part": null,
+   "author": "Pullman, Philip",
+   "series": "His Dark Materials #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2005,
+   "month": 3,
+   "status": "read",
+   "title": "The Anvil of the World",
+   "part": null,
+   "author": "Baker, Kage",
+   "series": "Lord Ermenwyr #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2005,
+   "month": 4,
+   "status": "read",
+   "title": "Neuromancer",
+   "part": null,
+   "author": "Gibson, William",
+   "series": "Sprawl #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2005,
+   "month": 5,
+   "status": "read",
+   "title": "Magician: Apprentice",
+   "part": null,
+   "author": "Feist, Raymond E.",
+   "series": "Riftwar Saga #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2005,
+   "month": 6,
+   "status": "read",
+   "title": "Voyage of the Shadowmoon",
+   "part": null,
+   "author": "McMullen, Sean",
+   "series": "Moonworlds Saga #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2005,
+   "month": 7,
+   "status": "read",
+   "title": "Last Call",
+   "part": null,
+   "author": "Powers, Tim",
+   "series": "Fault Lines #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2005,
+   "month": 8,
+   "status": "read",
+   "title": "Ironhand's Daughter",
+   "part": null,
+   "author": "Gemmell, David",
+   "series": "Hawk Queen #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2005,
+   "month": 9,
+   "status": "read",
+   "title": "Cryptonomicon",
+   "part": null,
+   "author": "Stephenson, Neal",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2005,
+   "month": 10,
+   "status": "read",
+   "title": "Out of the Silent Planet",
+   "part": null,
+   "author": "Lewis, C. S.",
+   "series": "Space Trilogy #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2005,
+   "month": 11,
+   "status": "read",
+   "title": "The Meq",
+   "part": null,
+   "author": "Cash, Steve",
+   "series": "The Meq #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2005,
+   "month": 12,
+   "status": "read",
+   "title": "Lord of Snow and Shadows",
+   "part": null,
+   "author": "Ash, Sarah",
+   "series": "Tears of Artamon #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2006,
+   "month": 1,
+   "status": "read",
+   "title": "Wyrm",
+   "part": null,
+   "author": "Fabi, Mark",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2006,
+   "month": 2,
+   "status": "read",
+   "title": "Battle Royale",
+   "part": null,
+   "author": "Takami, Koushun",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2006,
+   "month": 3,
+   "status": "read",
+   "title": "Jonathan Strange & Mr Norrell",
+   "part": null,
+   "author": "Clarke, Susanna",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2006,
+   "month": 4,
+   "status": "read",
+   "title": "Dreamsnake",
+   "part": null,
+   "author": "McIntyre, Vonda N.",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2006,
+   "month": 5,
+   "status": "read",
+   "title": "Dies the Fire",
+   "part": null,
+   "author": "Stirling, S. M.",
+   "series": "Emberverse #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2006,
+   "month": 6,
+   "status": "read",
+   "title": "Passage",
+   "part": null,
+   "author": "Willis, Connie",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2006,
+   "month": 7,
+   "status": "read",
+   "title": "Moonheart",
+   "part": null,
+   "author": "de Lint, Charles",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2006,
+   "month": 8,
+   "status": "read",
+   "title": "Wicked",
+   "part": null,
+   "author": "Maguire, Gregory",
+   "series": "The Wicked Years #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2006,
+   "month": 9,
+   "status": "read",
+   "title": "The Color of Magic",
+   "part": null,
+   "author": "Pratchett, Terry",
+   "series": "Discworld #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2006,
+   "month": 10,
+   "status": "read",
+   "title": "Memories of Empire",
+   "part": null,
+   "author": "Wexler, Django",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2006,
+   "month": 11,
+   "status": "read",
+   "title": "Mirabile",
+   "part": null,
+   "author": "Kagan, Janet",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2006,
+   "month": 12,
+   "status": "read",
+   "title": "Hogfather",
+   "part": null,
+   "author": "Pratchett, Terry",
+   "series": "Discworld #20",
+   "previouslyRead": []
+  },
+  {
+   "year": 2007,
+   "month": 1,
+   "status": "read",
+   "title": "The Drawing of the Dark",
+   "part": null,
+   "author": "Powers, Tim",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2007,
+   "month": 2,
+   "status": "read",
+   "title": "The Prestige",
+   "part": null,
+   "author": "Priest, Christopher",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2007,
+   "month": 3,
+   "status": "read",
+   "title": "The Postman",
+   "part": null,
+   "author": "Brin, David",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2007,
+   "month": 4,
+   "status": "read",
+   "title": "Howl's Moving Castle",
+   "part": null,
+   "author": "Jones, Diana Wynne",
+   "series": "Castle #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2007,
+   "month": 5,
+   "status": "read",
+   "title": "The Privilege of the Sword",
+   "part": null,
+   "author": "Kushner, Ellen",
+   "series": "Riverside #2",
+   "previouslyRead": []
+  },
+  {
+   "year": 2007,
+   "month": 6,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2007,
+   "month": 7,
+   "status": "read",
+   "title": "The Dark Mirror",
+   "part": null,
+   "author": "Marillier, Juliet",
+   "series": "Bridei Chronicles #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2007,
+   "month": 8,
+   "status": "read",
+   "title": "The Shadow of the Torturer",
+   "part": null,
+   "author": "Wolfe, Gene",
+   "series": "Book of the New Sun #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2007,
+   "month": 9,
+   "status": "read",
+   "title": "Dragon Prince",
+   "part": null,
+   "author": "Rawn, Melanie",
+   "series": "Dragon Prince #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2007,
+   "month": 10,
+   "status": "read",
+   "title": "Book of Jhereg",
+   "part": null,
+   "author": "Brust, Steven",
+   "series": "Vlad Taltos (omnibus #1–3)",
+   "previouslyRead": []
+  },
+  {
+   "year": 2007,
+   "month": 11,
+   "status": "read",
+   "title": "Armageddon Summer",
+   "part": null,
+   "author": "Yolen, Jane and Coville, Bruce",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2007,
+   "month": 12,
+   "status": "read",
+   "title": "Dancing with Werewolves",
+   "part": null,
+   "author": "Douglas, Carole Nelson",
+   "series": "Delilah Street #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2008,
+   "month": 1,
+   "status": "read",
+   "title": "Eragon",
+   "part": null,
+   "author": "Paolini, Christopher",
+   "series": "Inheritance Cycle #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2008,
+   "month": 2,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2008,
+   "month": 3,
+   "status": "read",
+   "title": "Gardens of the Moon",
+   "part": null,
+   "author": "Erikson, Steven",
+   "series": "Malazan Book of the Fallen #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2008,
+   "month": 4,
+   "status": "read",
+   "title": "The Atrocity Archives",
+   "part": null,
+   "author": "Stross, Charles",
+   "series": "Laundry Files #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2008,
+   "month": 5,
+   "status": "read",
+   "title": "Perdido Street Station",
+   "part": null,
+   "author": "Miéville, China",
+   "series": "Bas-Lag #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2008,
+   "month": 6,
+   "status": "read",
+   "title": "Footfall",
+   "part": null,
+   "author": "Niven, Larry and Pournelle, Jerry",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2008,
+   "month": 7,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2008,
+   "month": 8,
+   "status": "read",
+   "title": "The Peshawar Lancers",
+   "part": null,
+   "author": "Stirling, S. M.",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2008,
+   "month": 9,
+   "status": "read",
+   "title": "Anansi Boys",
+   "part": null,
+   "author": "Gaiman, Neil",
+   "series": "American Gods (companion)",
+   "previouslyRead": []
+  },
+  {
+   "year": 2008,
+   "month": 10,
+   "status": "read",
+   "title": "Pattern Recognition",
+   "part": null,
+   "author": "Gibson, William",
+   "series": "Blue Ant #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2008,
+   "month": 11,
+   "status": "read",
+   "title": "Living Dead in Dallas",
+   "part": null,
+   "author": "Harris, Charlaine",
+   "series": "Sookie Stackhouse #2",
+   "previouslyRead": []
+  },
+  {
+   "year": 2008,
+   "month": 12,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2009,
+   "month": 1,
+   "status": "read",
+   "title": "Terminal Mind",
+   "part": null,
+   "author": "Walton, David",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2009,
+   "month": 2,
+   "status": "read",
+   "title": "Lucifer's Hammer",
+   "part": null,
+   "author": "Niven, Larry and Pournelle, Jerry",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2009,
+   "month": 3,
+   "status": "read",
+   "title": "1634: The Ram Rebellion",
+   "part": null,
+   "author": "Flint, Eric and DeMarce, Virginia",
+   "series": "Ring of Fire",
+   "previouslyRead": []
+  },
+  {
+   "year": 2009,
+   "month": 4,
+   "status": "read",
+   "title": "Blasphemy",
+   "part": null,
+   "author": "Preston, Douglas",
+   "series": "Wyman Ford #2",
+   "previouslyRead": []
+  },
+  {
+   "year": 2009,
+   "month": 5,
+   "status": "read",
+   "title": "Magic Street",
+   "part": null,
+   "author": "Card, Orson Scott",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2009,
+   "month": 6,
+   "status": "read",
+   "title": "Salt and Silver",
+   "part": null,
+   "author": "Katherine, Anna",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2009,
+   "month": 7,
+   "status": "read",
+   "title": "A Song in Stone",
+   "part": null,
+   "author": "Hunt, Walter H.",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2009,
+   "month": 8,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2009,
+   "month": 9,
+   "status": "read",
+   "title": "The Singer's Crown",
+   "part": null,
+   "author": "Isaak, Elaine",
+   "series": "Singer's Legacy #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2009,
+   "month": 10,
+   "status": "read",
+   "title": "Inferno",
+   "part": null,
+   "author": "Niven, Larry and Pournelle, Jerry",
+   "series": "Inferno #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2009,
+   "month": 11,
+   "status": "read",
+   "title": "FlashForward",
+   "part": null,
+   "author": "Sawyer, Robert J.",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2009,
+   "month": 12,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2010,
+   "month": 1,
+   "status": "read",
+   "title": "Much Ado in the Moonlight",
+   "part": null,
+   "author": "Kurland, Lynn",
+   "series": "Kurland MacLeod/de Piaget family books",
+   "previouslyRead": []
+  },
+  {
+   "year": 2010,
+   "month": 2,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2010,
+   "month": 3,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2010,
+   "month": 4,
+   "status": "read",
+   "title": "By Schism Rent Asunder",
+   "part": null,
+   "author": "Weber, David",
+   "series": "Safehold #2",
+   "previouslyRead": []
+  },
+  {
+   "year": 2010,
+   "month": 5,
+   "status": "read",
+   "title": "The Eight",
+   "part": null,
+   "author": "Neville, Katherine",
+   "series": "The Eight #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2010,
+   "month": 6,
+   "status": "read",
+   "title": "The Stolen Child",
+   "part": null,
+   "author": "Donohue, Keith",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2010,
+   "month": 7,
+   "status": "read",
+   "title": "Sir Apropos of Nothing",
+   "part": null,
+   "author": "David, Peter",
+   "series": "Sir Apropos #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2010,
+   "month": 8,
+   "status": "read",
+   "title": "The Onion Girl",
+   "part": null,
+   "author": "de Lint, Charles",
+   "series": "Newford",
+   "previouslyRead": []
+  },
+  {
+   "year": 2010,
+   "month": 9,
+   "status": "read",
+   "title": "Garden Spells",
+   "part": null,
+   "author": "Allen, Sarah Addison",
+   "series": "Waverley Family #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2010,
+   "month": 10,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2010,
+   "month": 11,
+   "status": "read",
+   "title": "WWW: Wake",
+   "part": null,
+   "author": "Sawyer, Robert J.",
+   "series": "WWW Trilogy #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2010,
+   "month": 12,
+   "status": "read",
+   "title": "Red Mars",
+   "part": null,
+   "author": "Robinson, Kim Stanley",
+   "series": "Mars Trilogy #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2011,
+   "month": 1,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2011,
+   "month": 2,
+   "status": "read",
+   "title": "Outlander",
+   "part": null,
+   "author": "Gabaldon, Diana",
+   "series": "Outlander #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2011,
+   "month": 3,
+   "status": "read",
+   "title": "The Curse of Chalion",
+   "part": null,
+   "author": "Bujold, Lois McMaster",
+   "series": "World of the Five Gods #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2011,
+   "month": 4,
+   "status": "read",
+   "title": "The Zombies of Lake Woebegotten",
+   "part": null,
+   "author": "Geillor, Harrison",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2011,
+   "month": 5,
+   "status": "read",
+   "title": "A Discovery of Witches",
+   "part": null,
+   "author": "Harkness, Deborah",
+   "series": "All Souls #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2011,
+   "month": 6,
+   "status": "read",
+   "title": "The Windup Girl",
+   "part": null,
+   "author": "Bacigalupi, Paolo",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2011,
+   "month": 7,
+   "status": "read",
+   "title": "License to Ensorcell",
+   "part": null,
+   "author": "Kerr, Katharine",
+   "series": "Nola O'Grady #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2011,
+   "month": 8,
+   "status": "read",
+   "title": "Legacies",
+   "part": null,
+   "author": "Lackey, Mercedes and Edghill, Rosemary",
+   "series": "Shadow Grail #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2011,
+   "month": 9,
+   "status": "read",
+   "title": "The Hunger Games",
+   "part": null,
+   "author": "Collins, Suzanne",
+   "series": "The Hunger Games #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2011,
+   "month": 10,
+   "status": "read",
+   "title": "The Italian Secretary",
+   "part": null,
+   "author": "Carr, Caleb",
+   "series": "Standalone (Sherlock Holmes)",
+   "previouslyRead": []
+  },
+  {
+   "year": 2011,
+   "month": 11,
+   "status": "read",
+   "title": "Soulless",
+   "part": null,
+   "author": "Carriger, Gail",
+   "series": "Parasol Protectorate #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2011,
+   "month": 12,
+   "status": "read",
+   "title": "The Sword of Shannara",
+   "part": null,
+   "author": "Brooks, Terry",
+   "series": "Shannara #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2012,
+   "month": 1,
+   "status": "read",
+   "title": "Haunting Jordan",
+   "part": null,
+   "author": "Alderman, P. J.",
+   "series": "Port Chatham Mystery #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2012,
+   "month": 2,
+   "status": "read",
+   "title": "The Andromeda Strain",
+   "part": null,
+   "author": "Crichton, Michael",
+   "series": "Andromeda #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2012,
+   "month": 3,
+   "status": "read",
+   "title": "The Night Circus",
+   "part": null,
+   "author": "Morgenstern, Erin",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2012,
+   "month": 4,
+   "status": "read",
+   "title": "Jumper",
+   "part": null,
+   "author": "Gould, Steven",
+   "series": "Jumper #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2012,
+   "month": 5,
+   "status": "read",
+   "title": "Old Man's War",
+   "part": null,
+   "author": "Scalzi, John",
+   "series": "Old Man's War #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2012,
+   "month": 6,
+   "status": "read",
+   "title": "Dinosaur Planet",
+   "part": null,
+   "author": "McCaffrey, Anne",
+   "series": "Dinosaur Planet #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2012,
+   "month": 7,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2012,
+   "month": 8,
+   "status": "read",
+   "title": "Shards of Honor",
+   "part": null,
+   "author": "Bujold, Lois McMaster",
+   "series": "Vorkosigan Saga",
+   "previouslyRead": []
+  },
+  {
+   "year": 2012,
+   "month": 9,
+   "status": "read",
+   "title": "Diving into the Wreck",
+   "part": null,
+   "author": "Rusch, Kristine Kathryn",
+   "series": "Diving Universe #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2012,
+   "month": 10,
+   "status": "read",
+   "title": "The Codex",
+   "part": null,
+   "author": "Preston, Douglas",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2012,
+   "month": 11,
+   "status": "read",
+   "title": "In the Garden of Iden",
+   "part": null,
+   "author": "Baker, Kage",
+   "series": "The Company #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2012,
+   "month": 12,
+   "status": "read",
+   "title": "A Princess of Mars",
+   "part": null,
+   "author": "Burroughs, Edgar Rice",
+   "series": "Barsoom #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2013,
+   "month": 1,
+   "status": "read",
+   "title": "Oryx and Crake",
+   "part": null,
+   "author": "Atwood, Margaret",
+   "series": "MaddAddam #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2013,
+   "month": 2,
+   "status": "read",
+   "title": "The Ethos Effect",
+   "part": null,
+   "author": "Modesitt Jr., L. E.",
+   "series": "Parafaith #2",
+   "previouslyRead": []
+  },
+  {
+   "year": 2013,
+   "month": 3,
+   "status": "read",
+   "title": "Arrows of the Queen",
+   "part": null,
+   "author": "Lackey, Mercedes",
+   "series": "Heralds of Valdemar #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2013,
+   "month": 4,
+   "status": "read",
+   "title": "Leviathan Wakes",
+   "part": null,
+   "author": "Corey, James S. A.",
+   "series": "The Expanse #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2013,
+   "month": 5,
+   "status": "read",
+   "title": "Makers",
+   "part": null,
+   "author": "Doctorow, Corey",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2013,
+   "month": 6,
+   "status": "read",
+   "title": "11/22/63",
+   "part": null,
+   "author": "King, Stephen",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2013,
+   "month": 7,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2013,
+   "month": 8,
+   "status": "read",
+   "title": "The Many-Colored Land",
+   "part": null,
+   "author": "May, Julian",
+   "series": "Saga of Pliocene Exile #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2013,
+   "month": 9,
+   "status": "read",
+   "title": "2312",
+   "part": null,
+   "author": "Robinson, Kim Stanley",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2013,
+   "month": 10,
+   "status": "read",
+   "title": "Steel Beach",
+   "part": null,
+   "author": "Varley, John",
+   "series": "Eight Worlds",
+   "previouslyRead": []
+  },
+  {
+   "year": 2013,
+   "month": 11,
+   "status": "read",
+   "title": "Ready Player One",
+   "part": null,
+   "author": "Cline, Ernest",
+   "series": "Ready Player One #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2013,
+   "month": 12,
+   "status": "read",
+   "title": "Adventures of the Stainless Steel Rat",
+   "part": null,
+   "author": "Harrison, Harry",
+   "series": "Stainless Steel Rat (omnibus)",
+   "previouslyRead": []
+  },
+  {
+   "year": 2014,
+   "month": 1,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2014,
+   "month": 2,
+   "status": "read",
+   "title": "A Deepness in the Sky",
+   "part": null,
+   "author": "Vinge, Vernor",
+   "series": "Zones of Thought",
+   "previouslyRead": []
+  },
+  {
+   "year": 2014,
+   "month": 3,
+   "status": "read",
+   "title": "Oathbound",
+   "part": null,
+   "author": "Lackey, Mercedes",
+   "series": "Vows and Honor #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2014,
+   "month": 4,
+   "status": "read",
+   "title": "The Forever War",
+   "part": null,
+   "author": "Haldeman, Joe",
+   "series": "The Forever War #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2014,
+   "month": 5,
+   "status": "read",
+   "title": "The Man in the High Castle",
+   "part": null,
+   "author": "Dick, Philip K.",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2014,
+   "month": 6,
+   "status": "read",
+   "title": "Dragonsdawn",
+   "part": null,
+   "author": "McCaffrey, Anne",
+   "series": "Dragonriders of Pern",
+   "previouslyRead": []
+  },
+  {
+   "year": 2014,
+   "month": 7,
+   "status": "read",
+   "title": "Foundation",
+   "part": null,
+   "author": "Asimov, Isaac",
+   "series": "Foundation #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2014,
+   "month": 8,
+   "status": "read",
+   "title": "On Basilisk Station",
+   "part": null,
+   "author": "Weber, David",
+   "series": "Honor Harrington #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2014,
+   "month": 9,
+   "status": "read",
+   "title": "The Handmaid's Tale",
+   "part": null,
+   "author": "Atwood, Margaret",
+   "series": "The Handmaid's Tale #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2014,
+   "month": 10,
+   "status": "read",
+   "title": "Doomsday Book",
+   "part": null,
+   "author": "Willis, Connie",
+   "series": "Oxford Time Travel #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2014,
+   "month": 11,
+   "status": "read",
+   "title": "Darwin's Radio",
+   "part": null,
+   "author": "Bear, Greg",
+   "series": "Darwin's Radio #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2014,
+   "month": 12,
+   "status": "read",
+   "title": "A Canticle for Leibowitz",
+   "part": null,
+   "author": "Miller Jr., Walter M.",
+   "series": "Saint Leibowitz #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2015,
+   "month": 1,
+   "status": "read",
+   "title": "The Ship Who Sang",
+   "part": null,
+   "author": "McCaffrey, Anne",
+   "series": "Brainship #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2015,
+   "month": 2,
+   "status": "read",
+   "title": "The Clan of the Cave Bear",
+   "part": null,
+   "author": "Auel, Jean",
+   "series": "Earth's Children #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2015,
+   "month": 3,
+   "status": "read",
+   "title": "Last Call",
+   "part": null,
+   "author": "Powers, Tim",
+   "series": "Fault Lines #1",
+   "previouslyRead": [
+    "2005-07"
+   ]
+  },
+  {
+   "year": 2015,
+   "month": 4,
+   "status": "read",
+   "title": "Joyland",
+   "part": null,
+   "author": "King, Stephen",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2015,
+   "month": 5,
+   "status": "read",
+   "title": "The Sparrow",
+   "part": null,
+   "author": "Russell, Mary Doria",
+   "series": "The Sparrow #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2015,
+   "month": 6,
+   "status": "read",
+   "title": "Childhood's End",
+   "part": null,
+   "author": "Clarke, Arthur C.",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2015,
+   "month": 7,
+   "status": "read",
+   "title": "Dune",
+   "part": null,
+   "author": "Herbert, Frank",
+   "series": "Dune #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2015,
+   "month": 8,
+   "status": "read",
+   "title": "A Night in the Lonesome October",
+   "part": null,
+   "author": "Zelazny, Roger",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2015,
+   "month": 9,
+   "status": "read",
+   "title": "The Moon is a Harsh Mistress",
+   "part": null,
+   "author": "Heinlein, Robert A.",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2015,
+   "month": 10,
+   "status": "read",
+   "title": "Replay",
+   "part": null,
+   "author": "Grimwood, Ken",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2015,
+   "month": 11,
+   "status": "read",
+   "title": "Eon",
+   "part": null,
+   "author": "Bear, Greg",
+   "series": "The Way #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2015,
+   "month": 12,
+   "status": "read",
+   "title": "Way Station",
+   "part": null,
+   "author": "Simak, Clifford D.",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2016,
+   "month": 1,
+   "status": "read",
+   "title": "Nine Princes in Amber",
+   "part": null,
+   "author": "Zelazny, Roger",
+   "series": "Chronicles of Amber #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2016,
+   "month": 2,
+   "status": "read",
+   "title": "Anathem",
+   "part": null,
+   "author": "Stephenson, Neal",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2016,
+   "month": 3,
+   "status": "read",
+   "title": "Job: A Comedy of Justice",
+   "part": null,
+   "author": "Heinlein, Robert A.",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2016,
+   "month": 4,
+   "status": "read",
+   "title": "The Physick Book of Deliverance Dane",
+   "part": null,
+   "author": "Howe, Katherine",
+   "series": "Deliverance Dane #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2016,
+   "month": 5,
+   "status": "read",
+   "title": "Lost Boys",
+   "part": null,
+   "author": "Card, Orson Scott",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2016,
+   "month": 6,
+   "status": "read",
+   "title": "World War Z",
+   "part": null,
+   "author": "Brooks, Max",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2016,
+   "month": 7,
+   "status": "read",
+   "title": "West of Eden",
+   "part": null,
+   "author": "Harrison, Harry",
+   "series": "Eden #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2016,
+   "month": 8,
+   "status": "read",
+   "title": "The Martian",
+   "part": null,
+   "author": "Weir, Andy",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2016,
+   "month": 9,
+   "status": "read",
+   "title": "The Sky People",
+   "part": null,
+   "author": "Stirling, S. M.",
+   "series": "Lords of Creation #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2016,
+   "month": 10,
+   "status": "read",
+   "title": "1632",
+   "part": null,
+   "author": "Flint, Eric",
+   "series": "Ring of Fire #1",
+   "previouslyRead": [
+    "2004-04"
+   ]
+  },
+  {
+   "year": 2016,
+   "month": 11,
+   "status": "read",
+   "title": "Friday",
+   "part": null,
+   "author": "Heinlein, Robert A.",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2016,
+   "month": 12,
+   "status": "read",
+   "title": "Stand on Zanzibar",
+   "part": null,
+   "author": "Brunner, John",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2017,
+   "month": 1,
+   "status": "read",
+   "title": "Superposition",
+   "part": null,
+   "author": "Walton, David",
+   "series": "Superposition #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2017,
+   "month": 2,
+   "status": "read",
+   "title": "In Memory Yet Green",
+   "part": null,
+   "author": "Asimov, Isaac",
+   "series": "Asimov autobiography vol. 1 (nonfiction)",
+   "previouslyRead": []
+  },
+  {
+   "year": 2017,
+   "month": 3,
+   "status": "read",
+   "title": "Assassin's Apprentice",
+   "part": null,
+   "author": "Hobb, Robin",
+   "series": "Farseer #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2017,
+   "month": 4,
+   "status": "read",
+   "title": "Proxima",
+   "part": null,
+   "author": "Baxter, Stephen",
+   "series": "Proxima #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2017,
+   "month": 5,
+   "status": "read",
+   "title": "Dinosaur Planet",
+   "part": null,
+   "author": "McCaffrey, Anne",
+   "series": "Dinosaur Planet #1",
+   "previouslyRead": [
+    "2012-06"
+   ]
+  },
+  {
+   "year": 2017,
+   "month": 6,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2017,
+   "month": 7,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2017,
+   "month": 8,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2017,
+   "month": 9,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2017,
+   "month": 10,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2017,
+   "month": 11,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2017,
+   "month": 12,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2018,
+   "month": 1,
+   "status": "read",
+   "title": "Mistborn: The Final Empire",
+   "part": null,
+   "author": "Sanderson, Brandon",
+   "series": "Mistborn #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2018,
+   "month": 2,
+   "status": "read",
+   "title": "Aurora",
+   "part": null,
+   "author": "Robinson, Kim Stanley",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2018,
+   "month": 3,
+   "status": "read",
+   "title": "The Three-Body Problem",
+   "part": null,
+   "author": "Liu, Cixin",
+   "series": "Remembrance of Earth's Past #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2018,
+   "month": 4,
+   "status": "read",
+   "title": "Parable of the Talents",
+   "part": null,
+   "author": "Butler, Octavia E.",
+   "series": "Earthseed #2",
+   "previouslyRead": []
+  },
+  {
+   "year": 2018,
+   "month": 5,
+   "status": "read",
+   "title": "Nexus",
+   "part": null,
+   "author": "Naam, Ramez",
+   "series": "Nexus #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2018,
+   "month": 6,
+   "status": "read",
+   "title": "The Caves of Steel",
+   "part": null,
+   "author": "Asimov, Isaac",
+   "series": "Robot #1",
+   "previouslyRead": [
+    "2002-12"
+   ]
+  },
+  {
+   "year": 2018,
+   "month": 7,
+   "status": "read",
+   "title": "The Left Hand of Darkness",
+   "part": null,
+   "author": "Le Guin, Ursula K.",
+   "series": "Hainish Cycle",
+   "previouslyRead": [
+    "2004-03"
+   ]
+  },
+  {
+   "year": 2018,
+   "month": 8,
+   "status": "read",
+   "title": "The Time Machine",
+   "part": null,
+   "author": "Wells, H. G.",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2018,
+   "month": 9,
+   "status": "read",
+   "title": "Perdido Street Station",
+   "part": null,
+   "author": "Miéville, China",
+   "series": "Bas-Lag #1",
+   "previouslyRead": [
+    "2008-05"
+   ]
+  },
+  {
+   "year": 2018,
+   "month": 10,
+   "status": "read",
+   "title": "His Majesty's Dragon",
+   "part": null,
+   "author": "Novik, Naomi",
+   "series": "Temeraire #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2018,
+   "month": 11,
+   "status": "read",
+   "title": "New York 2140",
+   "part": null,
+   "author": "Robinson, Kim Stanley",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2018,
+   "month": 12,
+   "status": "read",
+   "title": "War of the Worlds",
+   "part": null,
+   "author": "Wells, H. G.",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2019,
+   "month": 1,
+   "status": "read",
+   "title": "The Difference Engine",
+   "part": null,
+   "author": "Gibson, William and Sterling, Bruce",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2019,
+   "month": 2,
+   "status": "read",
+   "title": "The Years of Rice and Salt",
+   "part": null,
+   "author": "Robinson, Kim Stanley",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2019,
+   "month": 3,
+   "status": "read",
+   "title": "The Mote in God's Eye",
+   "part": null,
+   "author": "Niven, Larry and Pournelle, Jerry",
+   "series": "Moties #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2019,
+   "month": 4,
+   "status": "read",
+   "title": "Mars",
+   "part": null,
+   "author": "Bova, Ben",
+   "series": "Grand Tour",
+   "previouslyRead": []
+  },
+  {
+   "year": 2019,
+   "month": 5,
+   "status": "read",
+   "title": "Altered Carbon",
+   "part": null,
+   "author": "Morgan, Richard K.",
+   "series": "Takeshi Kovacs #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2019,
+   "month": 6,
+   "status": "read",
+   "title": "The Diamond Age",
+   "part": null,
+   "author": "Stephenson, Neal",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2019,
+   "month": 7,
+   "status": "read",
+   "title": "I, Robot",
+   "part": null,
+   "author": "Asimov, Isaac",
+   "series": "Robot series (collection)",
+   "previouslyRead": [
+    "2002-01"
+   ]
+  },
+  {
+   "year": 2019,
+   "month": 8,
+   "status": "read",
+   "title": "Armada",
+   "part": null,
+   "author": "Cline, Ernest",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2019,
+   "month": 9,
+   "status": "read",
+   "title": "Do Androids Dream of Electric Sheep?",
+   "part": null,
+   "author": "Dick, Philip K.",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2019,
+   "month": 10,
+   "status": "read",
+   "title": "American Gods",
+   "part": null,
+   "author": "Gaiman, Neil",
+   "series": "American Gods #1",
+   "previouslyRead": [
+    "2004-01"
+   ]
+  },
+  {
+   "year": 2019,
+   "month": 11,
+   "status": "read",
+   "title": "Coyote",
+   "part": null,
+   "author": "Steele, Allen",
+   "series": "Coyote #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2019,
+   "month": 12,
+   "status": "read",
+   "title": "The Dark Forest",
+   "part": "part 1 of 2",
+   "author": "Liu, Cixin",
+   "series": "Remembrance of Earth's Past #2",
+   "previouslyRead": []
+  },
+  {
+   "year": 2020,
+   "month": 1,
+   "status": "no-meeting",
+   "title": "No meeting",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2020,
+   "month": 2,
+   "status": "read",
+   "title": "The Dark Forest",
+   "part": "part 2 of 2",
+   "author": "Liu, Cixin",
+   "series": "Remembrance of Earth's Past #2",
+   "previouslyRead": []
+  },
+  {
+   "year": 2020,
+   "month": 3,
+   "status": "read",
+   "title": "The Sirens of Titan",
+   "part": null,
+   "author": "Vonnegut, Kurt",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2020,
+   "month": 4,
+   "status": "no-meeting",
+   "title": "No meeting",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2020,
+   "month": 5,
+   "status": "no-meeting",
+   "title": "No meeting",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2020,
+   "month": 6,
+   "status": "no-meeting",
+   "title": "No meeting",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2020,
+   "month": 7,
+   "status": "no-meeting",
+   "title": "No meeting",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2020,
+   "month": 8,
+   "status": "read",
+   "title": "Fahrenheit 451",
+   "part": null,
+   "author": "Bradbury, Ray",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2020,
+   "month": 8,
+   "status": "read",
+   "title": "Ancillary Justice",
+   "part": null,
+   "author": "Leckie, Ann",
+   "series": "Imperial Radch #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2020,
+   "month": 9,
+   "status": "read",
+   "title": "The Player of Games",
+   "part": null,
+   "author": "Banks, Iain M.",
+   "series": "Culture #2",
+   "previouslyRead": []
+  },
+  {
+   "year": 2020,
+   "month": 10,
+   "status": "read",
+   "title": "Use of Weapons",
+   "part": null,
+   "author": "Banks, Iain M.",
+   "series": "Culture #3",
+   "previouslyRead": []
+  },
+  {
+   "year": 2020,
+   "month": 11,
+   "status": "no-meeting",
+   "title": "No meeting",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2020,
+   "month": 12,
+   "status": "read",
+   "title": "The Number of the Beast",
+   "part": null,
+   "author": "Heinlein, Robert A.",
+   "series": "World as Myth",
+   "previouslyRead": []
+  },
+  {
+   "year": 2021,
+   "month": 1,
+   "status": "read",
+   "title": "Saturn's Race",
+   "part": null,
+   "author": "Niven, Larry and Barnes, Steven",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2021,
+   "month": 2,
+   "status": "read",
+   "title": "To Hold Up the Sky",
+   "part": null,
+   "author": "Liu, Cixin",
+   "series": "Collection",
+   "previouslyRead": []
+  },
+  {
+   "year": 2021,
+   "month": 3,
+   "status": "read",
+   "title": "Bowl of Heaven",
+   "part": null,
+   "author": "Benford, Gregory and Niven, Larry",
+   "series": "Bowl of Heaven #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2021,
+   "month": 4,
+   "status": "read",
+   "title": "Shipstar",
+   "part": null,
+   "author": "Benford, Gregory and Niven, Larry",
+   "series": "Bowl of Heaven #2",
+   "previouslyRead": []
+  },
+  {
+   "year": 2021,
+   "month": 5,
+   "status": "read",
+   "title": "Halting State",
+   "part": null,
+   "author": "Stross, Charles",
+   "series": "Halting State #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2021,
+   "month": 6,
+   "status": "read",
+   "title": "Singularity Sky",
+   "part": null,
+   "author": "Stross, Charles",
+   "series": "Eschaton #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2021,
+   "month": 7,
+   "status": "read",
+   "title": "The Big Time",
+   "part": null,
+   "author": "Leiber, Fritz",
+   "series": "Change War",
+   "previouslyRead": []
+  },
+  {
+   "year": 2021,
+   "month": 8,
+   "status": "no-meeting",
+   "title": "No meeting",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2021,
+   "month": 9,
+   "status": "planning",
+   "title": "Meeting, no book (planning)",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2021,
+   "month": 10,
+   "status": "read",
+   "title": "To Sleep in a Sea of Stars",
+   "part": "part 1 of 2",
+   "author": "Paolini, Christopher",
+   "series": "Fractalverse #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2021,
+   "month": 11,
+   "status": "read",
+   "title": "To Sleep in a Sea of Stars",
+   "part": "part 2 of 2",
+   "author": "Paolini, Christopher",
+   "series": "Fractalverse #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2021,
+   "month": 12,
+   "status": "read",
+   "title": "Beyond Infinity",
+   "part": null,
+   "author": "Benford, Gregory",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2022,
+   "month": 1,
+   "status": "read",
+   "title": "Foundation's Edge",
+   "part": null,
+   "author": "Asimov, Isaac",
+   "series": "Foundation #4",
+   "previouslyRead": []
+  },
+  {
+   "year": 2022,
+   "month": 2,
+   "status": "read",
+   "title": "Foundation and Earth",
+   "part": null,
+   "author": "Asimov, Isaac",
+   "series": "Foundation #5",
+   "previouslyRead": []
+  },
+  {
+   "year": 2022,
+   "month": 3,
+   "status": "no-meeting",
+   "title": "No meeting",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2022,
+   "month": 4,
+   "status": "read",
+   "title": "The Dark Wing",
+   "part": null,
+   "author": "Hunt, Walter H.",
+   "series": "Dark Wing #1",
+   "previouslyRead": [
+    "2003-04"
+   ]
+  },
+  {
+   "year": 2022,
+   "month": 5,
+   "status": "read",
+   "title": "Gateway",
+   "part": null,
+   "author": "Pohl, Frederik",
+   "series": "Heechee Saga #1",
+   "previouslyRead": [
+    "2004-06"
+   ]
+  },
+  {
+   "year": 2022,
+   "month": 6,
+   "status": "no-meeting",
+   "title": "No meeting",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2022,
+   "month": 7,
+   "status": "read",
+   "title": "Startide Rising",
+   "part": null,
+   "author": "Brin, David",
+   "series": "Uplift #2",
+   "previouslyRead": []
+  },
+  {
+   "year": 2022,
+   "month": 8,
+   "status": "read",
+   "title": "Starship Troopers",
+   "part": null,
+   "author": "Heinlein, Robert A.",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2022,
+   "month": 9,
+   "status": "read",
+   "title": "A Connecticut Yankee in King Arthur's Court",
+   "part": null,
+   "author": "Twain, Mark",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2022,
+   "month": 10,
+   "status": "read",
+   "title": "Twenty Thousand Leagues Under the Seas",
+   "part": null,
+   "author": "Verne, Jules",
+   "series": "Standalone (Voyages extraordinaires)",
+   "previouslyRead": []
+  },
+  {
+   "year": 2022,
+   "month": 11,
+   "status": "read",
+   "title": "Brave New World",
+   "part": null,
+   "author": "Huxley, Aldous",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2022,
+   "month": 12,
+   "status": "read",
+   "title": "The City and the Stars",
+   "part": null,
+   "author": "Clarke, Arthur C.",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2023,
+   "month": 1,
+   "status": "read",
+   "title": "Good Omens",
+   "part": null,
+   "author": "Gaiman, Neil and Pratchett, Terry",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2023,
+   "month": 2,
+   "status": "no-meeting",
+   "title": "No meeting",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2023,
+   "month": 3,
+   "status": "read",
+   "title": "Neuromancer",
+   "part": null,
+   "author": "Gibson, William",
+   "series": "Sprawl #1",
+   "previouslyRead": [
+    "2005-04"
+   ]
+  },
+  {
+   "year": 2023,
+   "month": 4,
+   "status": "read",
+   "title": "Coraline",
+   "part": null,
+   "author": "Gaiman, Neil",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2023,
+   "month": 5,
+   "status": "read",
+   "title": "Project Hail Mary",
+   "part": null,
+   "author": "Weir, Andy",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2023,
+   "month": 6,
+   "status": "read",
+   "title": "Odd Thomas",
+   "part": null,
+   "author": "Koontz, Dean",
+   "series": "Odd Thomas #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2023,
+   "month": 7,
+   "status": "read",
+   "title": "The Peripheral",
+   "part": null,
+   "author": "Gibson, William",
+   "series": "Jackpot #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2023,
+   "month": 8,
+   "status": "read",
+   "title": "Little Fuzzy",
+   "part": null,
+   "author": "Piper, H. Beam",
+   "series": "Fuzzy #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2023,
+   "month": 9,
+   "status": "read",
+   "title": "Code Three",
+   "part": null,
+   "author": "Raphael, Rick",
+   "series": "Standalone (fix-up)",
+   "previouslyRead": []
+  },
+  {
+   "year": 2023,
+   "month": 10,
+   "status": "no-meeting",
+   "title": "No meeting",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2023,
+   "month": 11,
+   "status": "no-meeting",
+   "title": "No meeting",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2023,
+   "month": 12,
+   "status": "read",
+   "title": "A Canticle for Leibowitz",
+   "part": null,
+   "author": "Miller Jr., Walter M.",
+   "series": "Saint Leibowitz #1",
+   "previouslyRead": [
+    "2014-12"
+   ]
+  },
+  {
+   "year": 2024,
+   "month": 1,
+   "status": "read",
+   "title": "A Wizard of Earthsea",
+   "part": null,
+   "author": "Le Guin, Ursula K.",
+   "series": "Earthsea #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2024,
+   "month": 2,
+   "status": "read",
+   "title": "American Gods",
+   "part": null,
+   "author": "Gaiman, Neil",
+   "series": "American Gods #1",
+   "previouslyRead": [
+    "2004-01",
+    "2019-10"
+   ]
+  },
+  {
+   "year": 2024,
+   "month": 3,
+   "status": "read",
+   "title": "Stories of Your Life and Others",
+   "part": null,
+   "author": "Chiang, Ted",
+   "series": "Collection",
+   "previouslyRead": []
+  },
+  {
+   "year": 2024,
+   "month": 4,
+   "status": "read",
+   "title": "Exhalation",
+   "part": null,
+   "author": "Chiang, Ted",
+   "series": "Collection",
+   "previouslyRead": []
+  },
+  {
+   "year": 2024,
+   "month": 5,
+   "status": "read",
+   "title": "Little Brother",
+   "part": null,
+   "author": "Doctorow, Corey",
+   "series": "Little Brother #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2024,
+   "month": 6,
+   "status": "read",
+   "title": "Red Mars",
+   "part": null,
+   "author": "Robinson, Kim Stanley",
+   "series": "Mars Trilogy #1",
+   "previouslyRead": [
+    "2010-12"
+   ]
+  },
+  {
+   "year": 2024,
+   "month": 7,
+   "status": "no-meeting",
+   "title": "No meeting",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2024,
+   "month": 8,
+   "status": "read",
+   "title": "The Great North Road",
+   "part": null,
+   "author": "Hamilton, Peter F.",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2024,
+   "month": 9,
+   "status": "read",
+   "title": "Jurassic Park",
+   "part": null,
+   "author": "Crichton, Michael",
+   "series": "Jurassic Park #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2024,
+   "month": 10,
+   "status": "read",
+   "title": "Brother Odd",
+   "part": null,
+   "author": "Koontz, Dean",
+   "series": "Odd Thomas #3",
+   "previouslyRead": []
+  },
+  {
+   "year": 2024,
+   "month": 11,
+   "status": "read",
+   "title": "Wool",
+   "part": null,
+   "author": "Howey, Hugh",
+   "series": "Silo #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2024,
+   "month": 12,
+   "status": "read",
+   "title": "The Magicians",
+   "part": null,
+   "author": "Grossman, Lev",
+   "series": "The Magicians #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2025,
+   "month": 1,
+   "status": "read",
+   "title": "Proxima",
+   "part": null,
+   "author": "Baxter, Stephen",
+   "series": "Proxima #1",
+   "previouslyRead": [
+    "2017-04"
+   ]
+  },
+  {
+   "year": 2025,
+   "month": 2,
+   "status": "read",
+   "title": "The Mercy of Gods",
+   "part": null,
+   "author": "Corey, James S. A.",
+   "series": "The Captive's War #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2025,
+   "month": 3,
+   "status": "read",
+   "title": "Artemis",
+   "part": null,
+   "author": "Weir, Andy",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2025,
+   "month": 4,
+   "status": "read",
+   "title": "All Systems Red",
+   "part": null,
+   "author": "Wells, Martha",
+   "series": "Murderbot Diaries #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2025,
+   "month": 5,
+   "status": "read",
+   "title": "Variable Star",
+   "part": null,
+   "author": "Heinlein, Robert A. and Robinson, Spider",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2025,
+   "month": 6,
+   "status": "read",
+   "title": "Uprooted",
+   "part": null,
+   "author": "Novik, Naomi",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2025,
+   "month": 7,
+   "status": "read",
+   "title": "Dark Matter",
+   "part": null,
+   "author": "Crouch, Blake",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2025,
+   "month": 8,
+   "status": "unknown",
+   "title": "Unknown",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": 2025,
+   "month": 9,
+   "status": "read",
+   "title": "The Last Murder at the End of the World",
+   "part": null,
+   "author": "Turton, Stuart",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2025,
+   "month": 10,
+   "status": "read",
+   "title": "Snow Crash",
+   "part": null,
+   "author": "Stephenson, Neal",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2025,
+   "month": 11,
+   "status": "read",
+   "title": "The Fifth Season",
+   "part": null,
+   "author": "Jemisin, N. K.",
+   "series": "The Broken Earth #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2025,
+   "month": 12,
+   "status": "read",
+   "title": "The Player of Games",
+   "part": null,
+   "author": "Banks, Iain M.",
+   "series": "Culture #2",
+   "previouslyRead": [
+    "2020-09"
+   ]
+  },
+  {
+   "year": 2026,
+   "month": 1,
+   "status": "read",
+   "title": "Multiple Titles",
+   "part": null,
+   "author": "Multiple Authors",
+   "series": "—",
+   "previouslyRead": []
+  },
+  {
+   "year": 2026,
+   "month": 2,
+   "status": "read",
+   "title": "The Winds of Dune",
+   "part": null,
+   "author": "Herbert, Brian and Anderson, Kevin J.",
+   "series": "Heroes of Dune #2",
+   "previouslyRead": []
+  },
+  {
+   "year": 2026,
+   "month": 3,
+   "status": "read",
+   "title": "The Long Way to a Small Angry Planet",
+   "part": null,
+   "author": "Chambers, Becky",
+   "series": "Wayfarers #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2026,
+   "month": 4,
+   "status": "read",
+   "title": "Ready Player One",
+   "part": null,
+   "author": "Cline, Ernest",
+   "series": "Ready Player One #1",
+   "previouslyRead": [
+    "2013-11"
+   ]
+  },
+  {
+   "year": 2026,
+   "month": 5,
+   "status": "read",
+   "title": "Reamde",
+   "part": "part 1 of 2",
+   "author": "Stephenson, Neal",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2026,
+   "month": 6,
+   "status": "read",
+   "title": "Reamde",
+   "part": "part 2 of 2",
+   "author": "Stephenson, Neal",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": 2026,
+   "month": 7,
+   "status": "read",
+   "title": "Red Rising",
+   "part": null,
+   "author": "Brown, Pierce",
+   "series": "Red Rising #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2026,
+   "month": 8,
+   "status": "read",
+   "title": "Blindsight",
+   "part": null,
+   "author": "Watts, Peter",
+   "series": "Firefall #1",
+   "previouslyRead": []
+  },
+  {
+   "year": 2026,
+   "month": 9,
+   "status": "read",
+   "title": "Ready Player Two",
+   "part": null,
+   "author": "Cline, Ernest",
+   "series": "Ready Player One #2",
+   "previouslyRead": []
+  },
+  {
+   "year": 2026,
+   "month": 10,
+   "status": "read",
+   "title": "Cryptonomicon",
+   "part": "part 1 of 2",
+   "author": "Stephenson, Neal",
+   "series": "Standalone",
+   "previouslyRead": [
+    "2005-09"
+   ]
+  },
+  {
+   "year": 2026,
+   "month": 11,
+   "status": "read",
+   "title": "Cryptonomicon",
+   "part": "part 2 of 2",
+   "author": "Stephenson, Neal",
+   "series": "Standalone",
+   "previouslyRead": [
+    "2005-09"
+   ]
+  },
+  {
+   "year": 2026,
+   "month": 12,
+   "status": "upcoming",
+   "title": "Upcoming",
+   "part": null,
+   "author": "",
+   "series": "",
+   "previouslyRead": []
+  },
+  {
+   "year": null,
+   "month": null,
+   "status": "undated",
+   "title": "Chicks in Chainmail",
+   "part": null,
+   "author": "Friesner, Esther (editor)",
+   "series": "Chicks in Chainmail #1 (anthology)",
+   "previouslyRead": []
+  },
+  {
+   "year": null,
+   "month": null,
+   "status": "undated",
+   "title": "Ender's Game",
+   "part": null,
+   "author": "Card, Orson Scott",
+   "series": "Ender's Saga #1",
+   "previouslyRead": []
+  },
+  {
+   "year": null,
+   "month": null,
+   "status": "undated",
+   "title": "Foreigner",
+   "part": null,
+   "author": "Cherryh, C. J.",
+   "series": "Foreigner #1",
+   "previouslyRead": []
+  },
+  {
+   "year": null,
+   "month": null,
+   "status": "undated",
+   "title": "Islands in the Sea of Time",
+   "part": null,
+   "author": "Stirling, S. M.",
+   "series": "Nantucket #1",
+   "previouslyRead": []
+  },
+  {
+   "year": null,
+   "month": null,
+   "status": "undated",
+   "title": "The Mists of Avalon",
+   "part": null,
+   "author": "Bradley, Marion Zimmer",
+   "series": "Avalon #1",
+   "previouslyRead": []
+  },
+  {
+   "year": null,
+   "month": null,
+   "status": "undated",
+   "title": "On Basilisk Station",
+   "part": null,
+   "author": "Weber, David",
+   "series": "Honor Harrington #1",
+   "previouslyRead": [
+    "2014-08"
+   ]
+  },
+  {
+   "year": null,
+   "month": null,
+   "status": "undated",
+   "title": "Silver Wolf",
+   "part": null,
+   "author": "Borchardt, Alice",
+   "series": "Legends of the Wolf #1",
+   "previouslyRead": []
+  },
+  {
+   "year": null,
+   "month": null,
+   "status": "undated",
+   "title": "A Song for Arbonne",
+   "part": null,
+   "author": "Kay, Guy Gavriel",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": null,
+   "month": null,
+   "status": "undated",
+   "title": "Stardoc",
+   "part": null,
+   "author": "Viehl, S. L.",
+   "series": "Stardoc #1",
+   "previouslyRead": []
+  },
+  {
+   "year": null,
+   "month": null,
+   "status": "undated",
+   "title": "Stranger in a Strange Land",
+   "part": null,
+   "author": "Heinlein, Robert A.",
+   "series": "Standalone",
+   "previouslyRead": []
+  },
+  {
+   "year": null,
+   "month": null,
+   "status": "undated",
+   "title": "Svaha",
+   "part": null,
+   "author": "de Lint, Charles",
+   "series": "Standalone",
+   "previouslyRead": []
+  }
+ ]
+}

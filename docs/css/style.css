@@ -1,0 +1,249 @@
+/* Kelley Library Science Fiction and Fantasy Bookclub
+   Themes are blocks of CSS custom properties. Colors must be 6-digit hex so
+   tests/test_contrast.py can check them. To add a theme, copy one block,
+   change the colors, add an <option> in index.html and a pool in images.json. */
+
+/* THEMES-START */
+[data-theme="deep-space"] {
+  --bg: #0b1020;
+  --surface: #121a30;
+  --stripe: #18223f;
+  --hover: #22305a;
+  --text: #e8eefc;
+  --muted: #a7b3cf;
+  --border: #2c3a68;
+  --header-bg: #0f2a44;
+  --header-text: #e8f7ff;
+  --accent: #39c6e6;
+  --accent-text: #06121f;
+  --link: #7fd8f0;
+  --mark-bg: #f5b942;
+  --mark-text: #1a1200;
+  --banner-fallback: radial-gradient(ellipse at 20% 30%, #3b2a7a 0%, transparent 55%), radial-gradient(ellipse at 80% 70%, #0f5a73 0%, transparent 50%), #070b18;
+  --heading-font: "Avenir Next", "Futura", "Segoe UI", system-ui, sans-serif;
+  --heading-weight: 700;
+}
+[data-theme="enchanted-forest"] {
+  --bg: #ebe0c2;
+  --surface: #fbf6e9;
+  --stripe: #f1e6ca;
+  --hover: #e4d3a6;
+  --text: #1f2a1c;
+  --muted: #4f5a43;
+  --border: #c2ae7c;
+  --header-bg: #1f4d2b;
+  --header-text: #f8f1dc;
+  --accent: #1f4d2b;
+  --accent-text: #f8f1dc;
+  --link: #2c5e2e;
+  --mark-bg: #f2d16b;
+  --mark-text: #1f1a05;
+  --banner-fallback: linear-gradient(160deg, #0f2e1a 0%, #2f5a2a 55%, #8a7a2a 100%);
+  --heading-font: "Palatino", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  --heading-weight: 700;
+}
+[data-theme="retro-pulp"] {
+  --bg: #f6edd6;
+  --surface: #fffaf0;
+  --stripe: #f5e8c8;
+  --hover: #f0d98e;
+  --text: #241a14;
+  --muted: #5a4a3c;
+  --border: #d8c49a;
+  --header-bg: #a52a24;
+  --header-text: #fff7e6;
+  --accent: #1f7a7a;
+  --accent-text: #ffffff;
+  --link: #155f63;
+  --mark-bg: #e8b923;
+  --mark-text: #241a14;
+  --banner-fallback: repeating-linear-gradient(135deg, #b8312a 0 40px, #c9452c 40px 80px);
+  --heading-font: "Rockwell", "American Typewriter", "Courier New", serif;
+  --heading-weight: 700;
+}
+[data-theme="library-classic"] {
+  --bg: #f7f5f0;
+  --surface: #ffffff;
+  --stripe: #f2efe8;
+  --hover: #e9e3d6;
+  --text: #1c1c1c;
+  --muted: #4a4a4a;
+  --border: #cfc8b8;
+  --header-bg: #3a3a3a;
+  --header-text: #ffffff;
+  --accent: #7a1f2e;
+  --accent-text: #ffffff;
+  --link: #7a1f2e;
+  --mark-bg: #ffe08a;
+  --mark-text: #1c1c1c;
+  --banner-fallback: linear-gradient(180deg, #4a3b2e 0%, #2a211a 100%);
+  --heading-font: "Baskerville", "Baskerville Old Face", Georgia, serif;
+  --heading-weight: 600;
+}
+/* THEMES-END */
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  transition: background-color .3s, color .3s;
+}
+a { color: var(--link); }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+
+/* ---------- Banner ---------- */
+.banner {
+  position: relative;
+  min-height: clamp(200px, 28vw, 340px);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  overflow: hidden;
+  background: var(--banner-fallback);
+  color: #fff;
+}
+.banner-img {
+  position: absolute; inset: 0;
+  background-size: cover;
+  background-position: center;
+  opacity: 0;
+  transition: opacity .5s ease;
+}
+.banner-img.on { opacity: 1; }
+.banner-shade {
+  position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,.15) 35%, rgba(0,0,0,.72) 100%);
+}
+.banner-top {
+  position: absolute; top: 12px; right: 16px; z-index: 2;
+}
+.style-picker {
+  display: flex; align-items: center; gap: 8px;
+  background: rgba(0,0,0,.55); padding: 6px 10px; border-radius: 10px;
+  font-size: 17px; color: #fff;
+}
+.banner-top { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; justify-content: flex-end; }
+.shuffle {
+  font: inherit; font-size: 16px; min-height: 44px; padding: 4px 12px; border-radius: 10px;
+  border: 0; background: rgba(0,0,0,.55); color: #fff; cursor: pointer;
+}
+.shuffle:hover { background: rgba(0,0,0,.75); }
+.style-picker select {
+  font: inherit; min-height: 44px; padding: 4px 8px; border-radius: 8px;
+  border: 1px solid var(--border); background: var(--surface); color: var(--text);
+}
+.banner-text { position: relative; z-index: 1; padding: 64px 28px 22px; max-width: 1100px; }
+.banner h1 {
+  margin: 0; font-family: var(--heading-font); font-weight: var(--heading-weight);
+  font-size: clamp(28px, 4.4vw, 50px); line-height: 1.12;
+  text-shadow: 0 2px 8px rgba(0,0,0,.7);
+}
+.subtitle { margin: 6px 0 0; font-size: clamp(18px, 2vw, 22px); text-shadow: 0 1px 6px rgba(0,0,0,.8); }
+.updated { margin: 4px 0 0; font-size: 15px; opacity: .92; text-shadow: 0 1px 4px rgba(0,0,0,.8); }
+.banner-credit {
+  position: absolute; right: 10px; bottom: 8px; z-index: 2;
+  font-size: 13px; color: #fff; background: rgba(0,0,0,.55);
+  padding: 2px 8px; border-radius: 6px; text-decoration: none; max-width: 60%;
+}
+.banner-credit:hover { text-decoration: underline; }
+
+/* ---------- Controls ---------- */
+main { padding: 18px 24px 8px; max-width: 1400px; margin: 0 auto; }
+.controls { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 10px 24px; margin-bottom: 14px; }
+.search-wrap { flex: 1 1 380px; max-width: 620px; }
+.search-label { display: block; font-weight: 600; margin-bottom: 4px; }
+.search-box { position: relative; }
+#search {
+  width: 100%; font: inherit; font-size: 20px; min-height: 52px;
+  padding: 8px 52px 8px 14px; border-radius: 10px;
+  border: 2px solid var(--border); background: var(--surface); color: var(--text);
+  -webkit-appearance: none; appearance: none;
+}
+#search::-webkit-search-cancel-button { -webkit-appearance: none; }
+#search::placeholder { color: var(--muted); opacity: 1; }
+#search:focus { border-color: var(--accent); outline: none; box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 35%, transparent); }
+.clear {
+  position: absolute; right: 4px; top: 50%; transform: translateY(-50%);
+  width: 44px; height: 44px; border: 0; border-radius: 8px;
+  background: transparent; color: var(--muted); font-size: 28px; line-height: 1; cursor: pointer;
+}
+.clear:hover { background: var(--hover); color: var(--text); }
+.count { margin: 0 0 12px; font-weight: 600; }
+.show-all { display: flex; align-items: center; gap: 10px; min-height: 44px; margin-bottom: 4px; cursor: pointer; }
+.show-all input { width: 24px; height: 24px; accent-color: var(--accent); }
+
+/* ---------- Table ---------- */
+.table-wrap { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; }
+table { width: 100%; border-collapse: separate; border-spacing: 0; }
+thead th {
+  position: sticky; top: 0; z-index: 3;
+  background: var(--header-bg); color: var(--header-text);
+  text-align: left; padding: 0; font-weight: 700;
+}
+thead th:first-child { border-top-left-radius: 11px; }
+thead th:last-child { border-top-right-radius: 11px; }
+thead button {
+  all: unset; box-sizing: border-box; display: flex; align-items: center; gap: 6px;
+  width: 100%; min-height: 52px; padding: 8px 14px; cursor: pointer;
+}
+thead button:hover { text-decoration: underline; }
+thead button:focus-visible { outline: 3px solid var(--mark-bg); outline-offset: -3px; }
+.arrow { font-size: 14px; min-width: 1em; }
+tbody td { padding: 10px 14px; border-top: 1px solid var(--border); vertical-align: top; background: var(--surface); }
+tbody tr:nth-child(even) td { background: var(--stripe); }
+tbody tr:hover td { background: var(--hover); }
+td.col-date { white-space: nowrap; font-variant-numeric: tabular-nums; }
+th.col-date { width: 8.5em; }
+td.col-title { font-weight: 600; }
+.part { font-weight: 400; font-style: italic; color: var(--muted); white-space: nowrap; }
+tr.status td { color: var(--muted); font-style: italic; font-weight: 400; }
+mark { background: var(--mark-bg); color: var(--mark-text); border-radius: 3px; padding: 0 1px; }
+.empty { padding: 24px; margin: 0; font-size: 20px; text-align: center; }
+tbody tr:last-child td:first-child { border-bottom-left-radius: 11px; }
+tbody tr:last-child td:last-child { border-bottom-right-radius: 11px; }
+
+/* ---------- Footer ---------- */
+footer { max-width: 1400px; margin: 0 auto; padding: 18px 24px 40px; color: var(--muted); font-size: 16px; }
+footer p { margin: 6px 0; }
+footer summary { cursor: pointer; color: var(--link); min-height: 44px; display: flex; align-items: center; }
+#creditList { padding-left: 20px; margin: 4px 0 10px; }
+#creditList li { margin: 6px 0; }
+#creditList .theme-name { font-weight: 700; color: var(--text); list-style: none; margin: 12px 0 2px -20px; }
+
+/* ---------- Phones ---------- */
+@media (max-width: 760px) {
+  main { padding: 14px 10px 8px; }
+  .banner-text { padding: 70px 16px 30px; }
+  .banner-credit { max-width: 90%; }
+  .table-wrap { overflow: auto; max-height: 78vh; }
+  table { min-width: 680px; }
+  /* Keep Date and Title visible while scrolling sideways. */
+  th.col-date, td.col-date { position: sticky; left: 0; z-index: 2; width: 6.2em; min-width: 6.2em; }
+  th.col-title, td.col-title { position: sticky; left: 6.2em; z-index: 2; min-width: 10em; box-shadow: 4px 0 6px -4px rgba(0,0,0,.35); }
+  thead th.col-date, thead th.col-title { z-index: 4; }
+  th.col-date button, td.col-date { padding-left: 10px; padding-right: 6px; }
+}
+
+/* ---------- Motion ---------- */
+@media (prefers-reduced-motion: reduce) {
+  .banner-img, body { transition: none; }
+}
+
+/* ---------- Printing: just the table, as filtered and sorted ---------- */
+@media print {
+  .banner, .controls, footer { display: none !important; }
+  body { background: #fff; color: #000; font-size: 11pt; }
+  main { padding: 0; max-width: none; }
+  main::before { content: "Kelley Library Science Fiction and Fantasy Bookclub — reading list"; display: block; font-size: 14pt; font-weight: 700; margin-bottom: 8pt; }
+  .table-wrap { border: 0; overflow: visible; max-height: none; }
+  table { min-width: 0; }
+  thead th { position: static; background: #fff !important; color: #000 !important; border-bottom: 2px solid #000; }
+  thead button { min-height: 0; padding: 4pt 6pt; }
+  .arrow { display: none; }
+  tbody td { background: #fff !important; color: #000 !important; padding: 3pt 6pt; border-top: 1px solid #bbb; position: static !important; box-shadow: none !important; }
+  tr { break-inside: avoid; }
+  mark { background: none; color: inherit; font-weight: 700; }
+}

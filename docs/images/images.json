@@ -1,0 +1,189 @@
+{
+ "note": "Banner pools. 'file' is the local copy in this folder; 'commons' is the Wikimedia Commons file it comes from. Edit 'focus' (CSS background-position) to change a banner's crop.",
+ "pools": {
+  "deep-space": [
+   {
+    "file": "cosmic-cliffs.jpg",
+    "commons": "NASA’s Webb Reveals Cosmic Cliffs, Glittering Landscape of Star Birth.jpg",
+    "title": "“Cosmic Cliffs”, Carina Nebula",
+    "creator": "NASA, ESA, CSA, STScI",
+    "date": "2022",
+    "licence": "Public domain (NASA)",
+    "licenceStatus": "to-confirm",
+    "focus": "center 60%",
+    "source": "https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_Webb_Reveals_Cosmic_Cliffs%2C_Glittering_Landscape_of_Star_Birth.jpg"
+   },
+   {
+    "file": "pillars-of-creation.jpg",
+    "commons": "Pillars of creation 2014 HST WFC3-UVIS full-res denoised.jpg",
+    "title": "Pillars of Creation, Eagle Nebula",
+    "creator": "NASA, ESA, and the Hubble Heritage Team (STScI/AURA)",
+    "date": "2014",
+    "licence": "Public domain (PD-USGov)",
+    "licenceStatus": "checked",
+    "focus": "center 45%",
+    "source": "https://commons.wikimedia.org/wiki/File:Pillars_of_creation_2014_HST_WFC3-UVIS_full-res_denoised.jpg"
+   },
+   {
+    "file": "carina-nebula-field.jpg",
+    "commons": "Carina Nebula field JWST NIRCam.jpg",
+    "title": "Carina Nebula field",
+    "creator": "NASA, ESA, CSA, STScI",
+    "date": "2022",
+    "licence": "Webb image (licence to confirm)",
+    "licenceStatus": "to-confirm",
+    "focus": "center 50%",
+    "source": "https://commons.wikimedia.org/wiki/File:Carina_Nebula_field_JWST_NIRCam.jpg"
+   }
+  ],
+  "enchanted-forest": [
+   {
+    "file": "bauer-tuvstarr.jpg",
+    "commons": "Ännu sitter Tuvstarr kvar och ser ner i vattnet.jpg",
+    "title": "Tuvstarr Gazing into the Water",
+    "creator": "John Bauer",
+    "date": "1913",
+    "licence": "Public domain",
+    "licenceStatus": "by-date",
+    "focus": "center 55%",
+    "source": "https://commons.wikimedia.org/wiki/File:%C3%84nnu_sitter_Tuvstarr_kvar_och_ser_ner_i_vattnet.jpg"
+   },
+   {
+    "file": "bauer-princess-trolls.jpg",
+    "commons": "The Princess and the Trolls (John Bauer) - Nationalmuseum - 24305.tif",
+    "title": "The Princess and the Trolls",
+    "creator": "John Bauer (scan: Nationalmuseum, Stockholm)",
+    "date": "1913",
+    "licence": "Public domain",
+    "licenceStatus": "by-date",
+    "focus": "center 40%",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Princess_and_the_Trolls_%28John_Bauer%29_-_Nationalmuseum_-_24305.tif"
+   },
+   {
+    "file": "bauer-root-trolls.jpg",
+    "commons": "Rottrollen - John Bauer 1917.jpg",
+    "title": "Root Trolls",
+    "creator": "John Bauer",
+    "date": "1917",
+    "licence": "Public domain",
+    "licenceStatus": "by-date",
+    "focus": "center 50%",
+    "source": "https://commons.wikimedia.org/wiki/File:Rottrollen_-_John_Bauer_1917.jpg"
+   },
+   {
+    "file": "rackham-fafnir.jpg",
+    "commons": "Ring41.jpg",
+    "title": "The Dragon Fafnir Guards the Gold Hoard",
+    "creator": "Arthur Rackham",
+    "date": "1911",
+    "licence": "Public domain",
+    "licenceStatus": "by-date",
+    "focus": "center 55%",
+    "source": "https://commons.wikimedia.org/wiki/File:Ring41.jpg"
+   },
+   {
+    "file": "dore-hippogriff.jpg",
+    "commons": "Orlando Furioso 9.jpg",
+    "title": "Hippogriff, from Orlando Furioso",
+    "creator": "Gustave Doré",
+    "date": "1877",
+    "licence": "Public domain (PD-Art)",
+    "licenceStatus": "checked",
+    "focus": "center 35%",
+    "source": "https://commons.wikimedia.org/wiki/File:Orlando_Furioso_9.jpg"
+   }
+  ],
+  "retro-pulp": [
+   {
+    "file": "amazing-1927-08.jpg",
+    "commons": "Amazing Stories 1927 08.jpg",
+    "title": "Amazing Stories, August 1927",
+    "creator": "Frank R. Paul",
+    "date": "1927",
+    "licence": "Public domain in the US (published before 1931)",
+    "licenceStatus": "by-date",
+    "focus": "center 55%",
+    "source": "https://commons.wikimedia.org/wiki/File:Amazing_Stories_1927_08.jpg"
+   },
+   {
+    "file": "amazing-1927-09.jpg",
+    "commons": "Amazing stories 192709.jpg",
+    "title": "Amazing Stories, September 1927",
+    "creator": "Frank R. Paul",
+    "date": "1927",
+    "licence": "Public domain in the US (published before 1931)",
+    "licenceStatus": "by-date",
+    "focus": "center 60%",
+    "source": "https://commons.wikimedia.org/wiki/File:Amazing_stories_192709.jpg"
+   },
+   {
+    "file": "amazing-1927-11.jpg",
+    "commons": "Amazing stories 192711.jpg",
+    "title": "Amazing Stories, November 1927",
+    "creator": "Frank R. Paul",
+    "date": "1927",
+    "licence": "Public domain in the US (published before 1931)",
+    "licenceStatus": "by-date",
+    "focus": "center 60%",
+    "source": "https://commons.wikimedia.org/wiki/File:Amazing_stories_192711.jpg"
+   },
+   {
+    "file": "weird-tales-1923-03.jpg",
+    "commons": "Weird Tales March 1923.jpg",
+    "title": "Weird Tales, March 1923",
+    "creator": "R. R. Epperly",
+    "date": "1923",
+    "licence": "Public domain",
+    "licenceStatus": "checked",
+    "focus": "center 55%",
+    "source": "https://commons.wikimedia.org/wiki/File:Weird_Tales_March_1923.jpg"
+   }
+  ],
+  "library-classic": [
+   {
+    "file": "loc-reading-room.jpg",
+    "commons": "Reading room, Library of Congress, Washington, D.C..jpg",
+    "title": "Reading Room, Library of Congress",
+    "creator": "National Photo Company",
+    "date": "c. 1920s",
+    "licence": "Public domain (no known restrictions)",
+    "licenceStatus": "checked",
+    "focus": "center 40%",
+    "source": "https://commons.wikimedia.org/wiki/File:Reading_room%2C_Library_of_Congress%2C_Washington%2C_D.C..jpg"
+   },
+   {
+    "file": "boston-public-library.jpg",
+    "commons": "Reading room - Boston Public Library, McKim Building - DSC09268.JPG",
+    "title": "Reading Room, Boston Public Library",
+    "creator": "Wikimedia Commons contributor",
+    "date": "",
+    "licence": "CC0 1.0",
+    "licenceStatus": "checked",
+    "focus": "center 45%",
+    "source": "https://commons.wikimedia.org/wiki/File:Reading_room_-_Boston_Public_Library%2C_McKim_Building_-_DSC09268.JPG"
+   },
+   {
+    "file": "widener-reading-room.jpg",
+    "commons": "Americana 1920 Libraries - Widener Library reading room.jpg",
+    "title": "Widener Library Reading Room",
+    "creator": "Unknown photographer (Encyclopedia Americana)",
+    "date": "1920",
+    "licence": "Public domain in the US (published before 1931)",
+    "licenceStatus": "checked",
+    "focus": "center 50%",
+    "source": "https://commons.wikimedia.org/wiki/File:Americana_1920_Libraries_-_Widener_Library_reading_room.jpg"
+   },
+   {
+    "file": "british-museum-incunabula.jpg",
+    "commons": "The British Museum; the incunabula room of the library, with Wellcome V0013872.jpg",
+    "title": "The Incunabula Room, British Museum Library",
+    "creator": "Wood engraving (Wellcome Collection)",
+    "date": "19th century",
+    "licence": "Wellcome Collection (licence to confirm)",
+    "licenceStatus": "to-confirm",
+    "focus": "center 50%",
+    "source": "https://commons.wikimedia.org/wiki/File:The_British_Museum%3B_the_incunabula_room_of_the_library%2C_with_Wellcome_V0013872.jpg"
+   }
+  ]
+ }
+}
